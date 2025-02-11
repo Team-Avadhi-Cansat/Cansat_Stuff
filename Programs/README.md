@@ -27,3 +27,9 @@
 ### Air Quality BAD 
 
 ![Air quality BAD](Gas_Sensor_MQ135/Air_quality_bad.jpg)
+
+--- 
+
+## Servo Motor
+
+![servo_working_gif](Servo_Motor/Servo_motor.gif)
