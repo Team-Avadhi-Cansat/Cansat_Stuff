@@ -12,7 +12,7 @@ This is the official repository of **Team Avadhi**.
 
 ## Programs we did for testing the hardware
 
-1. [LED Blink](Programs/README.md)
-2. [Gas Sensor MQ135](Programs/README.md)
-3. [Servo motor](Programs/README.md)
+1. [LED Blink](Programs/README.md#led-blink)
+2. [Gas Sensor MQ135](Programs/README.md#gas-sensor-mq135)
+3. [Servo motor](Programs/README.md#servo-motor)
 
