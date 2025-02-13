@@ -32,6 +32,14 @@
 
 ## Servo Motor
 
-![servo_working_gif](Servo_Motor/Servo_motor.gif)
+![servo_working_gif](Servo_Motor/Servo_motor_compressed.gif)
+
+---
+
+## BMP280 Temperature, Pressure and Altitude 
+
+![Serial Monitor output](BMP_280/BMP_280_Serial_Monitor.png)
+
+![Circuit](BMP_280/circuit.jpg)
 
 
