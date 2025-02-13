@@ -32,7 +32,8 @@
 
 ## Servo Motor
 
-![servo_working_gif](Servo_Motor/Servo_motor.gif)
+
+ ![Servo Working GIF](https://vhs.charm.sh/vhs-4GSw6VknAXAMT5GjtG5kLR.gif)
 
 ---
 
