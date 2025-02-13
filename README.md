@@ -15,5 +15,5 @@ This is the official repository of **Team Avadhi**.
 1. [LED Blink](Programs/README.md#led-blink)
 2. [Gas Sensor MQ135](Programs/README.md#gas-sensor-mq135)
 3. [Servo motor](Programs/README.md#servo-motor)
-4. [BMP280](Programs/README#bmp280-temperature-pressure-and-altitude)
+4. [BMP280](Programs/README.md)
 
