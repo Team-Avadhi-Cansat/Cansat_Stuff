@@ -43,4 +43,9 @@
 
 ![Circuit](BMP_280/circuit.jpg)
 
+--- 
 
+## MPU9250 Accelerometer, Gyroscope and Magnetometer
+
+
+![circuit](MPU_9250/circuit_mpu9250.jpg)
