@@ -19,3 +19,7 @@ This is the official repository of **Team Avadhi**.
 4. [BMP280](Programs/README.md)
 5. [MPU9250](Programs/README.md)
 
+## 3D Model of PCB (Prototype)
+
+![3dmodel](Prototype_Images_PDF/PCB_No_Routing.png)
+
