@@ -21,5 +21,12 @@ This is the official repository of **Team Avadhi**.
 
 ## 3D Model of PCB (Prototype)
 
-![3dmodel](Prototype_Images_PDF/PCB_No_Routing.png)
+### Main Unit 
+
+![Main Unit](Prototype_Images_PDF/Main_Unit.png)
+
+### Xbee Telemetry Unit 
+
+![Telemetry Unit](Prototype_Images_PDF/Xbee_motor_pcb.png)
+
 
