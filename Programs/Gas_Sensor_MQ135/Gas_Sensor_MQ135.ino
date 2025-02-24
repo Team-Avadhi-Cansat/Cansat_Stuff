@@ -18,7 +18,7 @@ void loop() {
     digitalWrite(ledPin, 0);
   }
 
-  Serial.print("Analog Sensor Value : "); Serial.println(sensorValueAnalog, DEC);
+  Serial.print("Gas Sensor Value : "); Serial.println(sensorValueAnalog, DEC);
 
   delay(1000);
 }
