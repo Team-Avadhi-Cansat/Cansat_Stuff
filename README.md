@@ -25,7 +25,7 @@ This is the official repository of **Team Avadhi**.
 
 ![Main Unit](Prototype_Images_PDF/Main_Unit.png)
 
-### Xbee Telemetry Unit 
+### Telemetry Unit 
 
 ![Telemetry Unit](Prototype_Images_PDF/Telemetry_Unit.png)
 
