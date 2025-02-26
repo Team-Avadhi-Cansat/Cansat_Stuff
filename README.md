@@ -4,7 +4,7 @@ This is the official repository of **Team Avadhi**.
 
 ## Hardware used (for now)
 
-1. [Bharat Pi 4G LTE with GNSS/GPS, Wi-Fi and Bluetooth](Bharat-Pi-4G-LTE-GNSS-GPS-Pinout.pdf)
+1. [Teensy 4.1](Teensy_Pinout.png)
 2. MQ-135 Air Quality Sensor
 3. Servo Motor 
 4. Mini MP1584 Regulators 
