@@ -3,7 +3,7 @@
 void setup() {
   Serial.begin(115200);
   while (!Serial);
-  Wire.begin(21, 22);
+  Wire.begin();
   
   Serial.println("Scanning I2C devices...");
   for (byte address = 1; address < 127; address++) {

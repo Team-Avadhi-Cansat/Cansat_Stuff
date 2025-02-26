@@ -49,3 +49,11 @@
 
 
 ![circuit](MPU_9250/circuit_mpu9250.jpg)
+
+--- 
+
+## MPU9250 and BMP280 Together
+
+![Serial Output](MPU9250_BMP280_Together/MPU9250_BMP280_Together.png)
+
+![Circuit](MPU9250_BMP280_Together/Circuit.jpg)
