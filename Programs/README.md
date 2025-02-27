@@ -57,3 +57,11 @@
 ![Serial Output](MPU9250_BMP280_Together/MPU9250_BMP280_Together.png)
 
 ![Circuit](MPU9250_BMP280_Together/Circuit.jpg)
+
+--- 
+
+## Voltage Sensor 
+
+![Serial Plotter output](Voltage_Sensor/Serial_Plotter.png)
+
+![Serial Monitor Output](Voltage_Sensor/Serial_Monitor.png)

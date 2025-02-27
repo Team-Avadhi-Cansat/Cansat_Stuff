@@ -19,6 +19,7 @@ This is the official repository of **Team Avadhi**.
 4. [BMP280](Programs/README.md)
 5. [MPU9250](Programs/README.md)
 6. [MPU9250 and BMP280 Together (or GY-91 Program)](Programs/README.md)
+7. [Voltage Sensor Output](Programs/README.md)
 
 ## 3D Model of PCB (Prototype)
 
