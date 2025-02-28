@@ -76,3 +76,15 @@
 
 ![Map Output](GPS_Test/Map_output.jpeg)
 
+
+--- 
+
+# Teensy Programs (The actual Microcontroller that is used)
+
+--- 
+
+## GPS Module 
+
+![Serial Monitor Output](Teensy_Programs/GPS_Module_Test_Teensy/Serial_Output.png)
+
+![Circuit](Teensy_Programs/GPS_Module_Test_Teensy/Circuit.jpg)
