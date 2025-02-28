@@ -65,3 +65,14 @@
 ![Serial Plotter output](Voltage_Sensor/Serial_Plotter.png)
 
 ![Serial Monitor Output](Voltage_Sensor/Serial_Monitor.png)
+
+--- 
+
+## GPS Module (L76X) Test 
+
+![Serial Monitor Output](GPS_Test/Serial_Monitor.jpeg)
+
+![Circuit](GPS_Test/Circuit.jpg)
+
+![Map Output](GPS_Test/Map_output.jpeg)
+
