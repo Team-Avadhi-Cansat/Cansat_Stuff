@@ -2,5 +2,5 @@
 *.odt
 GPS_AT_COMMANDS.md 
 PCB/
-*.tmp
+*.tmp 
 *.ods
