@@ -106,6 +106,16 @@
 
 --- 
 
+## LED Blink with Serial Output 
+
+![LED OFF](Teensy_Programs/LED_Blink_Teensy/led_off.jpg)
+
+![LED ON](Teensy_Programs/LED_Blink_Teensy/led_on.jpg)
+
+![Serial Output](Teensy_Programs/LED_Blink_Teensy/serial_output.png)
+
+--- 
+
 ## GPS Module 
 
 ![Serial Monitor Output](Teensy_Programs/GPS_Module_Test_Teensy/Serial_Output.png)
