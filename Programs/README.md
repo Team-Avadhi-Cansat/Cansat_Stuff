@@ -17,6 +17,7 @@
   - [Voltage Sensor](#voltage-sensor)
   - [GPS Module (L76X) Test](#gps-module-l76x-test)
 - [Teensy Programs (The actual Microcontroller that is used)](#teensy-programs-the-actual-microcontroller-that-is-used)
+  - [LED Blink with Serial Output](#led-blink-with-serial-output)
   - [GPS Module](#gps-module)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
