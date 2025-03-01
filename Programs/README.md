@@ -1,3 +1,26 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [This is the README.md file for the programs](#this-is-the-readmemd-file-for-the-programs)
+  - [LED Blink](#led-blink)
+    - [LED ON](#led-on)
+    - [LED OFF](#led-off)
+  - [Gas Sensor MQ135](#gas-sensor-mq135)
+    - [Serial monitor Output](#serial-monitor-output)
+    - [Air Quality OK](#air-quality-ok)
+    - [Air Quality BAD](#air-quality-bad)
+  - [Servo Motor](#servo-motor)
+  - [BMP280 Temperature, Pressure and Altitude](#bmp280-temperature-pressure-and-altitude)
+  - [MPU9250 Accelerometer, Gyroscope and Magnetometer](#mpu9250-accelerometer-gyroscope-and-magnetometer)
+  - [MPU9250 and BMP280 Together](#mpu9250-and-bmp280-together)
+  - [Voltage Sensor](#voltage-sensor)
+  - [GPS Module (L76X) Test](#gps-module-l76x-test)
+- [Teensy Programs (The actual Microcontroller that is used)](#teensy-programs-the-actual-microcontroller-that-is-used)
+  - [GPS Module](#gps-module)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # This is the README.md file for the programs
 
 ---

@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Team Avadhi](#team-avadhi)
+  - [Hardware used (for now)](#hardware-used-for-now)
+  - [Programs we did for testing the hardware](#programs-we-did-for-testing-the-hardware)
+  - [Teensy Programs](#teensy-programs)
+  - [3D Model of PCB (Prototype)](#3d-model-of-pcb-prototype)
+    - [Main Unit](#main-unit)
+    - [Telemetry Unit](#telemetry-unit)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Team Avadhi 
 
 This is the official repository of **Team Avadhi**. 
