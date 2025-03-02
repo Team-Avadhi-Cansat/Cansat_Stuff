@@ -38,7 +38,8 @@ This is the official repository of **Team Avadhi**.
 
 ## Teensy Programs 
 1. [LED Blinking with Serial Output](Programs/README.md)
-2. [GPS Test](Programs/README.md)
+2. [MPU9250 and BMP280 Test](Programs/README.md)
+3. [GPS Test](Programs/README.md)
 
 ## 3D Model of PCB (Prototype)
 
