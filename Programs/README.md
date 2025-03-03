@@ -1,6 +1,5 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [This is the README.md file for the programs](#this-is-the-readmemd-file-for-the-programs)
   - [LED Blink](#led-blink)
@@ -19,6 +18,7 @@
 - [Teensy Programs (The actual Microcontroller that is used)](#teensy-programs-the-actual-microcontroller-that-is-used)
   - [LED Blink with Serial Output](#led-blink-with-serial-output)
   - [MPU9250 and BMP280 output](#mpu9250-and-bmp280-output)
+  - [MQ135 Gas Sensor](#mq135-gas-sensor)
   - [GPS Module](#gps-module)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -123,6 +123,16 @@
 ![Serial Output](Teensy_Programs/MPU9250_BMP280_Together_GY-91/Serial_output.png)
 
 ![Circuit](Teensy_Programs/MPU9250_BMP280_Together_GY-91/circuit.jpg)
+
+--- 
+
+## MQ135 Gas Sensor 
+
+![Serial Monitor Good](Teensy_Programs/Gas_Sensor_MQ135/good.png)
+
+![Serial Monitor Bad](Teensy_Programs/Gas_Sensor_MQ135/bad.png)
+
+![Circuit](Teensy_Programs/Gas_Sensor_MQ135/circuit.jpg)
 
 --- 
 

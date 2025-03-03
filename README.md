@@ -1,6 +1,5 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Team Avadhi](#team-avadhi)
   - [Hardware used (for now)](#hardware-used-for-now)
@@ -39,7 +38,8 @@ This is the official repository of **Team Avadhi**.
 ## Teensy Programs 
 1. [LED Blinking with Serial Output](Programs/README.md)
 2. [MPU9250 and BMP280 Test](Programs/README.md)
-3. [GPS Test](Programs/README.md)
+3. [MQ135 Gas Sensor](Programs/README.md)
+4. [GPS Test](Programs/README.md)
 
 ## 3D Model of PCB (Prototype)
 
