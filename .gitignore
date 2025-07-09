@@ -4,3 +4,4 @@ GPS_AT_COMMANDS.md
 PCB/
 *.tmp 
 *.ods
+target/

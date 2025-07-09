@@ -1,0 +1,138 @@
+<svg width="3000" height="2400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 3000 2400">
+<rect width="3000" height="2400" x="0" y="0" fill="rgb(255,255,255)" fill-opacity="0"></rect>
+<path d="M300 2160.5L2700 2160.5" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M300 1752.5L2700 1752.5" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M300 1344.5L2700 1344.5" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M300 936.5L2700 936.5" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M300 528.5L2700 528.5" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M300 120.5L2700 120.5" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M300.5 120L300.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M380.5 120L380.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M460.5 120L460.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M540.5 120L540.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M620.5 120L620.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M700.5 120L700.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M780.5 120L780.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M860.5 120L860.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M940.5 120L940.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M1020.5 120L1020.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M1100.5 120L1100.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M1180.5 120L1180.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M1260.5 120L1260.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M1340.5 120L1340.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M1420.5 120L1420.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M1500.5 120L1500.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M1580.5 120L1580.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M1660.5 120L1660.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M1740.5 120L1740.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M1820.5 120L1820.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M1900.5 120L1900.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M1980.5 120L1980.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M2060.5 120L2060.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M2140.5 120L2140.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M2220.5 120L2220.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M2300.5 120L2300.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M2380.5 120L2380.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M2460.5 120L2460.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M2540.5 120L2540.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M2620.5 120L2620.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M2700.5 120L2700.5 2160" fill="transparent" stroke="#eeeeee" class="zr0-cls-0"></path>
+<path d="M300.5 2160L300.5 120" fill="transparent" stroke="#cccccc" stroke-linecap="round" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" xml:space="preserve" y="-20" transform="matrix(0,-1,1,0,260,1140)" fill="#cccccc">Pitch (°)</text>
+<path d="M300 2160.5L2700 2160.5" fill="transparent" stroke="#cccccc" stroke-linecap="round" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:50px;font-family:sans-serif;" y="25" transform="translate(1500 2220)" fill="#cccccc">Time</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:40px;font-family:sans-serif;" transform="translate(292 2160)" fill="#999999">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:40px;font-family:sans-serif;" transform="translate(292 1752)" fill="#999999">3</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:40px;font-family:sans-serif;" transform="translate(292 1344)" fill="#999999">6</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:40px;font-family:sans-serif;" transform="translate(292 936)" fill="#999999">9</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:40px;font-family:sans-serif;" transform="translate(292 528)" fill="#999999">12</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:40px;font-family:sans-serif;" transform="translate(292 120)" fill="#999999">15</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(340 2168)" fill="#999999">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(420 2168)" fill="#999999">1</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(500 2168)" fill="#999999">2</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(580 2168)" fill="#999999">3</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(660 2168)" fill="#999999">4</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(740 2168)" fill="#999999">5</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(820 2168)" fill="#999999">6</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(900 2168)" fill="#999999">7</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(980 2168)" fill="#999999">8</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(1060 2168)" fill="#999999">9</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(1140 2168)" fill="#999999">10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(1220 2168)" fill="#999999">11</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(1300 2168)" fill="#999999">12</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(1380 2168)" fill="#999999">13</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(1460 2168)" fill="#999999">14</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(1540 2168)" fill="#999999">15</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(1620 2168)" fill="#999999">16</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(1700 2168)" fill="#999999">17</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(1780 2168)" fill="#999999">18</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(1860 2168)" fill="#999999">19</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(1940 2168)" fill="#999999">20</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(2020 2168)" fill="#999999">21</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(2100 2168)" fill="#999999">22</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(2180 2168)" fill="#999999">23</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(2260 2168)" fill="#999999">24</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(2340 2168)" fill="#999999">25</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(2420 2168)" fill="#999999">26</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(2500 2168)" fill="#999999">27</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(2580 2168)" fill="#999999">28</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:40px;font-family:sans-serif;" y="20" transform="translate(2660 2168)" fill="#999999">29</text>
+<g clip-path="url(#zr0-c0)">
+<path d="M340 405.4L420 690.7L500 914.6L580 1095.6L660 1230.8L740 1389.3L820 1496.1L900 1609.8L980 1662L1060 1737.4L1140 1791.8L1220 1883.1L1300 1930.4L1380 1965.2L1460 1958.8L1540 2002.7L1620 2025.9L1700 2055.8L1780 2090.9L1860 2095.9L1940 2080.7L2020 2120.4L2100 2138L2180 2118.6L2260 2123.6L2340 2114.6L2420 2152.4L2500 2131.3L2580 2135.3L2660 2161.6" fill="transparent" stroke="#4ea397" stroke-width="3" stroke-linejoin="bevel" class="zr0-cls-2"></path>
+</g>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,340,405.4315)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,420,690.7349)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,500,914.6361)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,580,1095.6251)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,660,1230.8174)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,740,1389.2664)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,820,1496.0992)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,900,1609.8204)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,980,1661.963)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,1060,1737.4326)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="9" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,1140,1791.7926)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="10" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,1220,1883.141)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="11" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,1300,1930.3678)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="12" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,1380,1965.1796)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="13" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,1460,1958.7537)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="14" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,1540,2002.656)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="15" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,1620,2025.8553)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="16" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,1700,2055.7781)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="17" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,1780,2090.8818)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="18" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,1860,2095.9109)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="19" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,1940,2080.6521)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="20" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,2020,2120.4104)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="21" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,2100,2138.0078)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="22" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,2180,2118.5884)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="23" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,2260,2123.5564)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="24" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,2340,2114.6028)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="25" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,2420,2152.3738)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="26" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,2500,2131.3188)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="27" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(4,0,0,4,2580,2135.2932)" fill="#fff" stroke="#4ea397" stroke-width="0.5" ecmeta_series_index="0" ecmeta_data_index="28" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M-434 -5l868 0l0 110l-868 0Z" transform="translate(1500 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:100px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="50" transform="translate(1500 5)" fill="#666666">IMU PID Response</text>
+<defs >
+<clipPath id="zr0-c0">
+<path d="M298 118.5l24004 0l0 20403l-24004 0Z" fill="#000" class="zr0-cls-1"></path>
+</clipPath>
+</defs>
+<style ><![CDATA[
+.zr0-cls-0:hover {
+pointer-events:none;
+}
+.zr0-cls-1:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr0-cls-2:hover {
+cursor:pointer;
+}
+.zr0-cls-3:hover {
+cursor:pointer;
+fill:rgba(255,255,255,1);
+}
+
+]]>
+
+</style>
+</svg>

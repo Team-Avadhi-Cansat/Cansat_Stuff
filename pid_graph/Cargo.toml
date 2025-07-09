@@ -1,0 +1,16 @@
+[package]
+name = "pid_graph"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+charming = { version = "0.6.0", features = ["ssr"] }
+rand = "0.9.1"
+
+[[bin]]
+name = "test"
+path = "src/bin/test.rs"
+
+[[bin]]
+name = "main"
+path = "src/bin/main.rs"
