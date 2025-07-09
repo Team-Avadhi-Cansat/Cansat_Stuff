@@ -8,6 +8,8 @@
   - [3D Model of PCB (Prototype)](#3d-model-of-pcb-prototype)
     - [Main Unit](#main-unit)
     - [Telemetry Unit](#telemetry-unit)
+    - [PID Test](#pid-test)
+      - [Image](#image)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -51,4 +53,14 @@ This is the official repository of **Team Avadhi**.
 
 ![Telemetry Unit](Prototype_Images_PDF/Telemetry_Unit.png)
 
+### PID Test
+
+[Code](./pid_graph/src/bin/main.rs)
+
+[Pseudocode](./pid_pseudocode.md)
+
+
+#### Image
+
+![Image](./pid_graph/pid.svg)
 
