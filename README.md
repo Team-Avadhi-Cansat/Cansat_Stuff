@@ -62,5 +62,5 @@ This is the official repository of **Team Avadhi**.
 
 #### Image
 
-![Image](./pid_graph/pid.svg)
+![Image](./pid_graph/centered_damped_oscillation.svg)
 
