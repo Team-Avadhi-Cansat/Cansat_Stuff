@@ -64,3 +64,7 @@ This is the official repository of **Team Avadhi**.
 
 ![Image](./pid_graph/centered_damped_oscillation.svg)
 
+
+## Attitude Control Notes 
+
+[Attitude Control Notes](./attitude_control_system.md)
